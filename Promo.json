@@ -6,5 +6,12 @@
 		"appName": "Wnasa - Voice Chat",
 		"appDescription": "Welcome to wnasa voice chat rooms and we hope you enjoy",
 		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+	},
+	
+	{
+		"appIcon": "https://www.facebook.com/images/fb_icon_325x325.png",
+		"appName": "Facebook",
+		"appDescription": "Welcome to facebooks and we hope you enjoy",
+		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
 	}
 ]
