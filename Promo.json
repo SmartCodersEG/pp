@@ -2,16 +2,9 @@
   
 	
 	{
-		"appIcon": "https://raw.githubusercontent.com/SmartCodersEG/ChatLogo/master/512.png",
-		"appName": "Wnasa - Voice Chat",
-		"appDescription": "Welcome to wnasa voice chat rooms and we hope you enjoy",
-		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
-	},
-	
-	{
-		"appIcon": "https://www.facebook.com/images/fb_icon_325x325.png",
-		"appName": "Facebook",
-		"appDescription": "Welcome to facebooks and we hope you enjoy",
-		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+		"appIconStr": "https://user-images.githubusercontent.com/6418354/56405936-8a807d80-6290-11e9-8bc3-9e7e1fd40e5d.png",
+		"appTiltle": "Facebook",
+		"appDescription": "Google Play Downloader",
+		"url": "http://tiny.cc/apkdownloader"
 	}
 ]
