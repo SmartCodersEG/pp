@@ -1,11 +1,1 @@
-{"movies": [
-	
-	
-	
-	{
-		"name": "moheb",
-		"imageUrl": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/AA.png",
-	
-	}
-]
-}
+{"movies":[{"name":"Batman vs Superman","imageUrl":"https:\/\/cloud.snowcorp.org\/demo\/images\/batman_vs_superman.jpg"},{"name":"Harry Potter","imageUrl":"https:\/\/cloud.snowcorp.org\/demo\/images\/harry_potter.jpg"},{"name":"Iron Man","imageUrl":"https:\/\/cloud.snowcorp.org\/demo\/images\/iron_man.jpg"},{"name":"Lord of The Ring","imageUrl":"https:\/\/cloud.snowcorp.org\/demo\/images\/lotr.jpg"}]}
