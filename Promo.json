@@ -1,5 +1,5 @@
 {
-   "version": "71",
+   "version": "72",
    "users": [
       {
          "categories": [
@@ -11,7 +11,7 @@
          "id": "1",
          "lastUpdatedOn": 20201014,
          "name": "قناة او جروب",
-         "url": "https://www.instagram.com",
+         "linkUrl": "https://www.instagram.com",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
          "proUser": false,
          "type": "قناة تليجرام"
