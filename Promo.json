@@ -1,81 +1,89 @@
 {
-   "version":"14",
-   "users":[
+   "version": "1",
+   "users": [
       {
-         "id":"1",
-         "name":"Panda Digital Cat 1,3",
-         "description":"Panda Digital Studios, Sri Lanka",
-         "photo":"https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/69d7c93368bc9e998958b0db2e491501-1584779450782/affe04eb-da05-4683-96a7-941b1f7fa31d.png",
-         "linkUrl":"https://www.fiverr.com/pandadigitalsl",
-         "type":"Type 1",
-         "categories":[
-            "Category 1",
-            "Category 3"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":true
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "1",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": false,
+         "type": "قناة تليجرام"
       },
       {
-         "id":"2",
-         "name":"Smart Coders Cat 2",
-         "description":"Smart Coders, Egypt",
-         "photo":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-         "linkUrl":"https://www.fiverr.com/smartcoders1",
-         "type":"Type 2",
-         "categories":[
-            "Category 2"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":true
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "2",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": true,
+         "type": "قناة تليجرام"
       },
       {
-         "id":"3",
-         "name":"Smart Coders 3 Cat 2, 3",
-         "description":"Smart Coders, Egypt",
-         "photo":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-         "linkUrl":"https://www.fiverr.com/smartcoders1",
-         "type":"Type 2",
-         "categories":[
-            "Category 1",
-            "Category 3"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":true
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "3",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": true,
+         "type": "قناة تليجرام"
       },
       {
-         "id":"4",
-         "name":"Smart Coders 4 Cat 1, 3",
-         "description":"Smart Coders, Egypt",
-         "photo":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-         "linkUrl":"https://www.fiverr.com/smartcoders1",
-         "type":"Type 2",
-         "categories":[
-            "Category 1",
-            "Category 3"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":true
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "4",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": false,
+         "type": "قناة تليجرام"
       },
       {
-         "id":"5",
-         "name":"Smart Coders 5 Cat 2",
-         "description":"Smart Coders, Egypt",
-         "photo":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-         "linkUrl":"https://www.fiverr.com/smartcoders1",
-         "type":"Type 2",
-         "categories":[
-            "Category 2"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":false
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "5",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": false,
+         "type": "قناة تليجرام"
       },
       {
-         "id":"6",
-         "name":"Smart Coders 6 Cat 1, 2 ",
-         "description":"Smart Coders, Egypt",
-         "photo":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/149548de435753c1e874a477e995dcb4-1534613981932/1c406da9-4721-43dd-9e7e-1cbdb5d2aef1.jpg",
-         "linkUrl":"https://www.fiverr.com/smartcoders1",
-         "type":"Type 2",
-         "categories":[
-            "Category 1",
-            "Category 2"
+         "categories": [
+            "اعلانات مبوبه",
+            "اخبار رياضيه"
          ],
-         "proUser":false
-      }
-   ]
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "6",
+         "lastUpdatedOn": 20201014,
+         "name": "قناة او جروب",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+         "proUser": false,
+         "type": "قناة تليجرام"
+      },
+]
 }
