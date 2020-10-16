@@ -1,5 +1,5 @@
 {
-   "version": "101",
+   "version": "110",
    "users": [
       {
          "categories": [
@@ -54,8 +54,8 @@
          "name": "4",
          "linkUrl": "https://www.instagram.com",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "قناة تليجرام"
+         "proUser": true,
+         "type": "testo"
       },
        {
          "categories": [
