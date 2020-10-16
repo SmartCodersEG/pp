@@ -1,5 +1,5 @@
 {
-   "version": "85",
+   "version": "86",
    "users": [
       {
          "categories": [
@@ -12,7 +12,7 @@
          "name": "1",
          "linkUrl": "https://www.instagram.com",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
+         "proUser": true,
          "type": "قناة تليجرام"
       },
        {
@@ -26,7 +26,7 @@
          "name": "2",
          "linkUrl": "https://www.instagram.com",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
+         "proUser": true,
          "type": "قناة تليجرام"
       },
        {
