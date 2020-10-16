@@ -40,7 +40,7 @@
          "name": "3",
          "linkUrl": "https://www.instagram.com",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
+         "proUser": true,
          "type": "قناة تليجرام"
       },
        {
