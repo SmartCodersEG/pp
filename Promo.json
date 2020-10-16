@@ -1,5 +1,5 @@
 {
-   "version": "74",
+   "version": "75",
    "users": [
       {
          "categories": [
@@ -29,45 +29,7 @@
          "proUser": true,
          "type": "قناة تليجرام"
       },
-      {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "3",
-         "lastUpdatedOn": 20201014,
-         "name": "قناة او جروب",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": true,
-         "type": "قناة تليجرام"
-      },
-      {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "4",
-         "lastUpdatedOn": 20201014,
-         "name": "قناة او جروب",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
-      {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "5",
-         "lastUpdatedOn": 20201014,
-         "name": "قناة او جروب",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
+      
       {
          "categories": [
             "اخبار رياضيه"
