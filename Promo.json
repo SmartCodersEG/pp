@@ -1,5 +1,5 @@
 {
-   "version": "79",
+   "version": "81",
    "users": [
       {
          "categories": [
@@ -72,6 +72,36 @@
                   "linkUrl": "https://www.tiktok.com/@eslamatefsaed_",
          "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
          "proUser": true,
+         "type": "2قناة تليجرام"
+      },
+      
+       {
+         "categories": [
+            "اخبار رياضيه"
+         ],
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "7",
+         "lastUpdatedOn": 20201014,
+         "name": "8قناة او جروب",
+                  "linkUrl": "https://www.tiktok.com/@eslamatefsaed_",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
+         "proUser": false,
+         "type": "2قناة تليجرام"
+      },
+      
+           {
+         "categories": [
+            "اخبار رياضيه"
+         ],
+         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "favorited": false,
+         "id": "8",
+         "lastUpdatedOn": 20201014,
+         "name": "9قناة او جروب",
+                  "linkUrl": "https://www.tiktok.com/@eslamatefsaed_",
+         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
+         "proUser": false,
          "type": "2قناة تليجرام"
       },
       
