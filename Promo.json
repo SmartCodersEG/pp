@@ -1,144 +1,47 @@
 {
-   "version": "110",
+   "version": "1",
    "users": [
-      {
+          {
          "categories": [
-            "اخبار رياضيه"
+            "اقتباسات و حالات و تصاميم"
          ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "description": "اقتباسات و صور و حالات جميله",
          "favorited": false,
          "id": "1",
          "lastUpdatedOn": 20201017,
-         "name": "1",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": true,
-         "type": "11قناة تليجرام"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "2",
-         "lastUpdatedOn": 20201017,
-         "name": "2",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": true,
-         "type": "قناة تليجرام"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "3",
-         "lastUpdatedOn": 20201017,
-         "name": "3",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": true,
-         "type": "جديد"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "4",
-         "lastUpdatedOn": 20201017,
-         "name": "4",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": true,
-         "type": "testo"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "5",
-         "lastUpdatedOn": 20201017,
-         "name": "5",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
+         "name": "غيمة",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
          "proUser": false,
          "type": "قناة تليجرام"
       },
-       {
+     {
          "categories": [
-            "اخبار رياضيه"
+            "اقتباسات و حالات و تصاميم"
          ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "description": "كل شيئ يخص الحب و الغزل قناة مفيده جدا",
          "favorited": false,
-         "id": "6",
+         "id": "1",
          "lastUpdatedOn": 20201017,
-         "name": "6",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
+         "name": "صمونات",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
          "proUser": false,
          "type": "قناة تليجرام"
       },
-       {
+
+
+     {
          "categories": [
-            "اخبار رياضيه"
+            "محلات تجاريه و مصانع"
          ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
+         "description": "البسه نسائيه و اكسسوارات",
          "favorited": false,
-         "id": "7",
+         "id": "1",
          "lastUpdatedOn": 20201017,
-         "name": "7",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
+         "name": "بوتيك فوفو",
+         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
          "proUser": false,
          "type": "قناة تليجرام"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "8",
-         "lastUpdatedOn": 20201017,
-         "name": "8",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
-       {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "9",
-         "lastUpdatedOn": 20201017,
-         "name": "9",
-         "linkUrl": "https://www.instagram.com",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
-      {
-         "categories": [
-            "اخبار رياضيه"
-         ],
-         "description": "هذا وصف للقناة او الجروب و التى تحتوى على كل التفاصيل ادناه و هذا اختبار بذلك",
-         "favorited": false,
-         "id": "10",
-         "lastUpdatedOn": 20201017,
-         "name": "10",
-         "photo": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/icon.png",
-         "proUser": false,
-         "type": "1قناة تليجرام"
       }
+
 ]
 }
