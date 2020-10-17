@@ -1,5 +1,5 @@
 {
-   "version": "1",
+   "version": "2",
    "users": [
           {
          "categories": [
@@ -11,6 +11,7 @@
          "lastUpdatedOn": 20201017,
          "name": "غيمة",
          "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+             "linkUrl": "https://t.me/cloud_90s",
          "proUser": false,
          "type": "قناة تليجرام"
       },
@@ -24,6 +25,7 @@
          "lastUpdatedOn": 20201017,
          "name": "صمونات",
          "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+            "linkUrl": "https://t.me/poule2",
          "proUser": false,
          "type": "قناة تليجرام"
       },
@@ -39,6 +41,7 @@
          "lastUpdatedOn": 20201017,
          "name": "بوتيك فوفو",
          "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
+             "linkUrl": "https://t.me/joinchat/AAAAAFbC-Op-duik-21IYQ",
          "proUser": false,
          "type": "قناة تليجرام"
       }
