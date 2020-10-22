@@ -1,50 +1,17 @@
 {
-   "version": "3",
-   "users": [
-          {
-         "categories": [
-            "اقتباسات و حالات و تصاميم"
-         ],
-         "description": "اقتباسات و صور و حالات جميله",
-         "favorited": false,
-         "id": "1",
-         "lastUpdatedOn": 20201017,
-         "name": "غيمة",
-         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
-             "linkUrl": "https://t.me/cloud_90s",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
-     {
-         "categories": [
-            "اقتباسات و حالات و تصاميم"
-         ],
-         "description": "كل شيئ يخص الحب و الغزل قناة مفيده جدا",
-         "favorited": false,
-         "id": "2",
-         "lastUpdatedOn": 20201017,
-         "name": "صمونات",
-         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
-            "linkUrl": "https://t.me/poule2",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      },
-
+    "apps":
 
      {
-         "categories": [
-            "محلات تجاريه و مصانع"
-         ],
-         "description": "البسه نسائيه و اكسسوارات",
-         "favorited": false,
-         "id": "3",
-         "lastUpdatedOn": 20201017,
-         "name": "بوتيك فوفو",
-         "photo": "https://image.flaticon.com/icons/png/512/64/64572.png",
-             "linkUrl": "https://t.me/joinchat/AAAAAFbC-Op-duik-21IYQ",
-         "proUser": false,
-         "type": "قناة تليجرام"
-      }
-
-]
-}
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/BB.png",
+		"appCover": "https://raw.githubusercontent.com/SmartCodersEG/pp/gh-pages/AA.png",
+		"appTitle": "Dndna Chat",
+		"appRating": "4.2",
+		"appSize": "#18MB",
+		"appCategory": "#Dating",
+		"appBtnText": "Install App",
+		"appDescription": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi, as available)!",
+		"url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en"
+	}
+   
+      ]
+    }
