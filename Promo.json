@@ -1,26 +1,38 @@
  [
 	{
-		"appIconStr": "https://3.bp.blogspot.com/-p9T_5SxS9_A/XM3UGRWLVxI/AAAAAAAAAKs/BQJXETbsmnskw4zFlrG42MrpG7yFV_s3gCLcBGAs/s1600/Pubg%2BMobile%2BApk.jpg",
-		"appCover": "https://3.bp.blogspot.com/-p9T_5SxS9_A/XM3UGRWLVxI/AAAAAAAAAKs/BQJXETbsmnskw4zFlrG42MrpG7yFV_s3gCLcBGAs/s1600/Pubg%2BMobile%2BApk.jpg",
-		"appTitle": "Pubg Mobile New Era",
-		"appRating": "4.2",
-		"appSize": "1.46GB",
-		"appCategory": "Action . Shooter",
+		"appIconStr": "https://play-lh.googleusercontent.com/RUwaKZyft2lCAQ_SAKIsq1eRZ4qayMB3_kMv_nftJjgY78LywAOD9QpEn9VWolIywWRZ=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/RUwaKZyft2lCAQ_SAKIsq1eRZ4qayMB3_kMv_nftJjgY78LywAOD9QpEn9VWolIywWRZ=s180-rw",
+		"appTitle": "Candy Crush Saga",
+		"appRating": "4.4",
+		"appSize": "63MB",
+		"appCategory": "Casual",
 		"appBtnText": "Install Now",
-		"appDescription": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile. Play free anywhere, anytime",
-		"url": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en"
+		"appDescription": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world",
+		"url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
 	},
 	 
 	 {
-		"appIconStr": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s180-rw",
-		"appCover": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s180-rw",
-		"appTitle": "TikTok",
+		"appIconStr": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
+		"appTitle": "Knife Hit",
 		"appRating": "4.2",
 		"appSize": "83MB",
-		"appCategory": "Social",
-		"appBtnText": "Install Now",
-		"appDescription": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine",
-		"url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically"
+		"appCategory": "Arcade",
+		"appBtnText": "Install Game",
+		"appDescription": "Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives",
+		"url": "https://play.google.com/store/apps/details?id=com.ketchapp.knifehit"
+	},
+	 
+	  {
+		"appIconStr": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
+		"appTitle": "Dr. Driving",
+		"appRating": "4.0",
+		"appSize": "12MB",
+		"appCategory": "Racing",
+		"appBtnText": "Install Game",
+		"appDescription": "Burn up the street with the fastest and most visually stunning driving game Sign in with your Google account to play online multiplayer",
+		"url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving"
 	}
    
 ]
