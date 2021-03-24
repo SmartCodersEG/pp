@@ -3,37 +3,14 @@
 	 {
 		"appIconStr": "https://play-lh.googleusercontent.com/D5cIl0bz9miRWcDyBNHk2VnRi9vNfsI7321ZCdK6lYvDjMqcAtfmiTlZGsjDhy4bRUpS=s180-rw",
 		"appCover": "https://play-lh.googleusercontent.com/D5cIl0bz9miRWcDyBNHk2VnRi9vNfsI7321ZCdK6lYvDjMqcAtfmiTlZGsjDhy4bRUpS=s180-rw",
-		"appTitle": "Crash Bandicoot: On the Run!",
+		"appTitle1": "Crash Bandicoot: On the Run!",
 		"appRating": "N/A",
 		"appSize": "N/A",
 		"appCategory": "Action",
 		"appBtnText": "Pr-register",
 		"appDescription": "Think fast to keep Crash and Coco running, jumping, spinning and smashing in lanes loaded with obstacles. Speed through mysterious lands",
 		"url": "https://play.google.com/store/apps/details?id=com.king.crash"
-	},
-	 
-	 {
-		"appIconStr": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
-		"appCover": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
-		"appTitle": "Knife Hit",
-		"appRating": "4.2",
-		"appSize": "83MB",
-		"appCategory": "Arcade",
-		"appBtnText": "Install Game",
-		"appDescription": "Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives",
-		"url": "https://play.google.com/store/apps/details?id=com.ketchapp.knifehit"
-	},
-	 
-	  {
-		"appIconStr": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
-		"appCover": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
-		"appTitle": "Dr. Driving",
-		"appRating": "4.0",
-		"appSize": "12MB",
-		"appCategory": "Racing",
-		"appBtnText": "Install Game",
-		"appDescription": "Burn up the street with the fastest and most visually stunning driving game Sign in with your Google account to play online multiplayer",
-		"url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving"
 	}
+	
    
 ]
