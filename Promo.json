@@ -4,11 +4,23 @@
 		"appCover": "https://webeenow.com/wp-content/uploads/2021/03/Crash-Bandicoot-for-Android-downloading-the-adaptation-for-mobiles-now.jpg",
 		"appTitle": "Crash Bandicoot: On the Run!",
 		"appRating": "4.5",
-		"appSize": "184MB for apk",
+		"appSize": "184MB",
 		"appCategory": "Action",
 		"appBtnText": "Install Game",
 		"appDescription": "Think fast to keep Crash and Coco running, jumping, spinning and smashing in lanes loaded with obstacles. Speed through mysterious lands",
 		"url": "https://play.google.com/store/apps/details?id=com.king.crash"
+	},
+	
+	 {
+		"appIconStr": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0=s180-rw",
+		"appCover": "https://www.filkhabr.com/wp-content/uploads/2021/03/candy-crush-saga-780x405.jpg",
+		"appTitle": "Candy Crush Saga",
+		"appRating": "4.6",
+		"appSize": "69MB",
+		"appCategory": "Casual",
+		"appBtnText": "Install Game",
+		"appDescription": "Think fast to keep Crash and Coco running, jumping, spinning and smashing in lanes loaded with obstacles. Speed through mysterious lands",
+		"url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
 	}
 	
    
