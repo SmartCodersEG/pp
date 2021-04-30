@@ -6,8 +6,8 @@
 		"appRating": "4.5",
 		"appSize": "184MB",
 		"appCategory": "Action",
-		"appBtnText": "na",
-		"appDescription": "na",
+		"appBtnText": "Get It",
+		"appDescription": "Get It",
 		"url": "https://play.google.com/store/apps/details?id=com.king.crash"
 	},
 	
@@ -18,7 +18,7 @@
 		"appRating": "4.8",
 		"appSize": "17MB",
 		"appCategory": "Puzzle",
-		"appBtnText": "na",
+		"appBtnText": "Install",
 		"appDescription": "na",
 		"url": "https://play.google.com/store/apps/details?id=ru.avv.game"
 	},
@@ -30,7 +30,7 @@
 		"appRating": "3.3",
 		"appSize": "35MB",
 		"appCategory": "Adventure",
-		"appBtnText": "na",
+		"appBtnText": "Get It",
 		"appDescription": "na",
 		"url": "https://play.google.com/store/apps/details?id=com.tengle.miriam"
 	},
@@ -43,7 +43,7 @@
 		"appRating": "4.8",
 		"appSize": "28MB",
 		"appCategory": "Adventure",
-		"appBtnText": "na",
+		"appBtnText": "View More",
 		"appDescription": "na",
 		"url": "https://play.google.com/store/apps/details?id=com.playdead.limbo.full"
 	},
@@ -56,7 +56,7 @@
 		"appRating": "4.6",
 		"appSize": "69MB",
 		"appCategory": "Casual",
-		"appBtnText": "na",
+		"appBtnText": "Buy It",
 		"appDescription": "na",
 		"url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
 	}
