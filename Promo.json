@@ -8,48 +8,8 @@
 		"appCategory": "Action",
 		"appBtnText": "Get It",
 		"appDescription": "Get It",
-		 		"btnColor": "#f1f1f1",
+		 		"btnColor": "#673AB7",
 		"url": "https://play.google.com/store/apps/details?id=com.king.crash"
-	},
-	
-	{
-		"appIconStr": "https://play-lh.googleusercontent.com/q817NfzL2vAK-a-tb3wBwB9P_z5AOuHyH7Urr6kQoVK-C554_6kl2nAt8jDG6fBs1X0=s180-rw",
-		"appCover": "https://play-lh.googleusercontent.com/-Pj6olt2FobtGVsZgSiXx38AthtefF3xCYnBe4Wlfk-cW8r7rTse0dEK8ar1Gng9yA=w720-h310-rw",
-		"appTitle": "Sad But Ded: 2D Puzzle",
-		"appRating": "4.8",
-		"appSize": "17MB",
-		"appCategory": "Puzzle",
-		"appBtnText": "Install",
-		"appDescription": "na",
-		"btnColor": "#f1f1f1",
-		"url": "https://play.google.com/store/apps/details?id=ru.avv.game"
-	},
-	
-	{
-		"appIconStr": "https://play-lh.googleusercontent.com/KXCCrhnp_Wn6C0lczsGehJuqWsWHy6oKHOtd-on6kLQSW_jCcJKj1w9By6KN7R-6aIc=s180-rw",
-		"appCover": "https://i.ytimg.com/vi/3LFIqJc526Q/maxresdefault.jpg",
-		"appTitle": "MIRIAM : The Escape",
-		"appRating": "3.3",
-		"appSize": "35MB",
-		"appCategory": "Adventure",
-		"appBtnText": "Get It",
-		"appDescription": "na",
-		"btnColor": "#f1f1f1",
-		"url": "https://play.google.com/store/apps/details?id=com.tengle.miriam"
-	},
-	
-	
-	{
-		"appIconStr": "https://play-lh.googleusercontent.com/FJ8e7NYhyjzrjuROUSpigJ1TQNnZKUDh6AZc1SFjiD665bZsxr_7zus0DzlHIrC6Lgk=s180-rw",
-		"appCover": "https://bramjinternet.com/wp-content/uploads/2019/05/maxresdefault-1-4-780x405.jpg",
-		"appTitle": "LIMBO",
-		"appRating": "4.8",
-		"appSize": "28MB",
-		"appCategory": "Adventure",
-		"appBtnText": "View More",
-		"appDescription": "na",
-		"btnColor": "#f1f1f1",
-		"url": "https://play.google.com/store/apps/details?id=com.playdead.limbo.full"
 	},
 	
 	
