@@ -7,7 +7,7 @@
 		"appSize": "184MB",
 		"appCategory": "Action",
 		"appBtnText": "Get It",
-		 		"showorhide": "false",
+		 		"showorhide": "GONE",
 
 		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
 		 		"btnColor": "#FF33B5E5",
@@ -23,7 +23,7 @@
 		"appSize": "69MB",
 		"appCategory": "Casual",
 		"appBtnText": "Buy It",
-		 		 		"showorhide": "false",
+		 		 		"showorhide": "GONE",
 
 		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
 		 "btnColor": "#FFFF4444",
