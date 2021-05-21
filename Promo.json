@@ -1,16 +1,16 @@
 
 [
 	{
-		"appIconStr": "https://play-lh.googleusercontent.com/D5cIl0bz9miRWcDyBNHk2VnRi9vNfsI7321ZCdK6lYvDjMqcAtfmiTlZGsjDhy4bRUpS=s180-rw",
-		"appCover": "https://webeenow.com/wp-content/uploads/2021/03/Crash-Bandicoot-for-Android-downloading-the-adaptation-for-mobiles-now.jpg",
-		"appTitle": "ACrash Bandicoot: On the Run!",
-		"appRating": "4.5",
-		"appSize": "184MB",
-		"appCategory": "Action",
-		"appBtnText": "Get It",
-		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
-		 		"btnColor": "#FF33B5E5",
-		"url": "https://play.google.com/store/apps/details?id=com.king.crash"
+		"appIconStr": "https://play-lh.googleusercontent.com/4k4znP7MUvA8deQvvXl3j-VFE15Vm7g7SWfpWDN8oAEXkdsRPSj8Bk0Tul8H0qTobVSm=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/4k4znP7MUvA8deQvvXl3j-VFE15Vm7g7SWfpWDN8oAEXkdsRPSj8Bk0Tul8H0qTobVSm=s180-rw",
+		"appTitle": "VideoShow Pro - Video Editor",
+		"appRating": "4.2",
+		"appSize": "35MB",
+		"appCategory": "Video Players & Editors",
+		"appBtnText": "Install It",
+		"appDescription": "VideoShow - Video Editor: Featured by Google Play in 161 Countries",
+		 		"btnColor": "#FC5730",
+		"url": "https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditorpro"
 	}
 
 ]
