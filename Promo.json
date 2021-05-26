@@ -1,7 +1,17 @@
 
 [
 	{
-		"url": "https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditorpro"
-	}
+		"appIconStr": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0=s180-rw",
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "na",
+		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
+		 "btnColor": "#000000",
+		"url": "na"
+	 }
+
 
 ]
