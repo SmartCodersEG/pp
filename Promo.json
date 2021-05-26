@@ -9,7 +9,7 @@
 		"appCategory": "na",
 		"appBtnText": "na",
 		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
-		 "btnColor": "#FF9800",
+		 "btnColor": "#E3D4FF",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp"
 	 }
 
