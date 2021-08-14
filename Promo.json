@@ -9,6 +9,7 @@
 		"appSize": "63MB",
 		"appCategory": "Casual",
 		"appBtnText": "Install Now",
+		 		 "btnColor": "#FF9800",
 		"appDescription": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world",
 		"url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
 	},
@@ -19,6 +20,7 @@
 		"appTitle": "Knife Hit",
 		"appRating": "4.2",
 		"appSize": "83MB",
+		 		 "btnColor": "#FF9800",
 		"appCategory": "Arcade",
 		"appBtnText": "Install Game",
 		"appDescription": "Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives",
@@ -32,6 +34,7 @@
 		"appRating": "4.0",
 		"appSize": "12MB",
 		"appCategory": "Racing",
+		  		 "btnColor": "#FF9800",
 		"appBtnText": "Install Game",
 		"appDescription": "Burn up the street with the fastest and most visually stunning driving game Sign in with your Google account to play online multiplayer",
 		"url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving"
