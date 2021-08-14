@@ -1,17 +1,40 @@
 
-[
-	{
-		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
-		"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/game.webp",
-		"appTitle": "na",
-		"appRating": "na",
-		"appSize": "na",
-		"appCategory": "na",
-		"appBtnText": "na",
-		"appDescription": "To create an Android button rounded corners have to use a new XML file. This new XML file will be inside a drawable folder. To change the corners of all sides of the button need only one attribute in the drawable XML file",
-		 "btnColor": "#E3D4FF",
-		
-	 }
+ [
 
-
+	 {
+		"appIconStr": "https://play-lh.googleusercontent.com/RUwaKZyft2lCAQ_SAKIsq1eRZ4qayMB3_kMv_nftJjgY78LywAOD9QpEn9VWolIywWRZ=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/RUwaKZyft2lCAQ_SAKIsq1eRZ4qayMB3_kMv_nftJjgY78LywAOD9QpEn9VWolIywWRZ=s180-rw",
+		"appTitle": "Candy Crush Saga",
+		"appRating": "4.4",
+		"appSize": "63MB",
+		"appCategory": "Casual",
+		"appBtnText": "Install Now",
+		"appDescription": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world",
+		"url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+	},
+	 
+	 {
+		"appIconStr": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/Ew7rWCeUu76dCNB1KG0Bw8tOB54VqicKBB8s5tFRHM4jY8ElkfGyYo6Mpyq8BxZHM0o=s180-rw",
+		"appTitle": "Knife Hit",
+		"appRating": "4.2",
+		"appSize": "83MB",
+		"appCategory": "Arcade",
+		"appBtnText": "Install Game",
+		"appDescription": "Throw the knives into the logs to break them. Slash the apples and unlock new knives. Each 5th stage is defended by a boss - beat them to get exclusive knives",
+		"url": "https://play.google.com/store/apps/details?id=com.ketchapp.knifehit"
+	},
+	 
+	  {
+		"appIconStr": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
+		"appCover": "https://play-lh.googleusercontent.com/_NajhNZ75NZN_CuQ7O1HMvD9BOPZEX8FmwtQaAC1RqRaAnl8geTYodi02U8hcfbnwMs=s180-rw",
+		"appTitle": "Dr. Driving",
+		"appRating": "4.0",
+		"appSize": "12MB",
+		"appCategory": "Racing",
+		"appBtnText": "Install Game",
+		"appDescription": "Burn up the street with the fastest and most visually stunning driving game Sign in with your Google account to play online multiplayer",
+		"url": "https://play.google.com/store/apps/details?id=com.ansangha.drdriving"
+	}
+   
 ]
